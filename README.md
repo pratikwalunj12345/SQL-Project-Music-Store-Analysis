@@ -6,10 +6,10 @@ This project is for beginners and will teach you how to analyze the music playli
 
 Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
 
-https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png
 
-Database and Tools
-Postgre SQL
-PgAdmin4
-Schema- Music Store Database
-MusicDatabaseSchema
+**Database and Tools**
+
+1. Postgre SQL
+2. PgAdmin4
+3. Schema- Music Store Database
+4. MusicDatabaseSchema
